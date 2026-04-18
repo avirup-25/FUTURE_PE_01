@@ -1,0 +1,39 @@
+Glow Beauty Salon
+
+Headline:
+Reveal Your Natural Glow
+
+About Us:
+Welcome to Glow Beauty Salon, where beauty meets care. Located in Kolkata...
+
+Services:
+- Haircuts, Styling & Hair Spa
+- Facials & Skin Treatments
+- Manicure & Pedicure
+- Bridal & Party Makeup
+- Waxing & Threading
+
+Why Choose Us:
+- Experienced professionals
+- Hygienic environment
+- High-quality products
+- Affordable pricing
+
+CTA:
+Book your appointment today! Visit us in Kolkata or call now.
+
+
+-------------------------
+
+PROMPTS USED
+
+1. Homepage Prompt:
+Create homepage website copy for a local beauty salon.
+Business Name: Glow Beauty Salon
+Location: Kolkata
+
+2. Services Prompt:
+Create services content for a beauty salon.
+
+3. CTA Prompt:
+Write a strong call-to-action for a beauty salon.
